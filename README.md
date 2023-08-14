@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deekshith Ravikoti
-- 👀 I’m interested in building tech products that integrates AI
+- 👀 I’m interested in building tech products and  integrating it with AI
 - 🌱 I’m currently learning Developtment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
